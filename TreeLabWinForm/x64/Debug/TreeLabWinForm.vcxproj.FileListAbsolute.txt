@@ -1,0 +1,4 @@
+F:\Labs C++\TreeLabWinForm\x64\Debug\TreeLabWinForm.vcxproj.AssemblyReference.cache
+F:\Labs C++\TreeLabWinForm\x64\Debug\TreeLabWinForm.exe
+F:\Labs C++\TreeLabWinForm\x64\Debug\TreeLabWinForm.MyForm.resources
+F:\Labs C++\TreeLabWinForm\x64\Debug\TreeLabWinForm.vcxproj.GenerateResource.cache
