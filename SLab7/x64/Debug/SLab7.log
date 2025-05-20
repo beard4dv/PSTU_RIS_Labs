@@ -1,0 +1,4 @@
+﻿  SLab7_main.cpp
+F:\Labs C++\SLab7\Set.h(68): warning C4715: 'Set<int>::operator[]': not all control paths return a value
+F:\Labs C++\SLab7\Set.h(68): warning C4715: 'Set<Money>::operator[]': not all control paths return a value
+  SLab7.vcxproj -> F:\Labs C++\SLab7\x64\Debug\SLab7.exe

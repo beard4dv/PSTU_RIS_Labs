@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Money">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAwAgAAAAAAAAAAAAAAAQEAAAAAAAAAAAAgAAAAQAA=</HashCode>
+      <FileName>Money.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Set&lt;T&gt;">
+    <Position X="3" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAgBIAAAQAAAAEAAAAAAAAwAAAAAAA=</HashCode>
+      <FileName>Set.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
