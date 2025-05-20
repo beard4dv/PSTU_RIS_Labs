@@ -1,0 +1,4 @@
+﻿  SLab9_main.cpp
+F:\Labs C++\SLab9\Set1.h(26,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+F:\Labs C++\SLab9\Set3.h(25,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  SLab9.vcxproj -> F:\Labs C++\SLab9\x64\Debug\SLab9.exe
