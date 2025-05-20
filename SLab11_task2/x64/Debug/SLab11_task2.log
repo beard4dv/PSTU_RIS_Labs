@@ -1,0 +1,3 @@
+﻿  SLab11_task2.cpp
+F:\Labs C++\SLab11_task2\SLab11_task2.cpp(61,27): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  SLab11_task2.vcxproj -> F:\Labs C++\SLab11\x64\Debug\SLab11_task2.exe

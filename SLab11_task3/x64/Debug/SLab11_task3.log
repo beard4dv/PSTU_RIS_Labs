@@ -1,0 +1,9 @@
+﻿  SLab11_task3.cpp
+F:\Labs C++\SLab11_task3\vector.h(39,14): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\Labs C++\SLab11_task3\vector.h(32,1): message : while compiling class template member function 'Vector<Money>::Vector(int)'
+F:\Labs C++\SLab11_task3\SLab11_task3.cpp(7,18): message : see the first reference to 'Vector<Money>::Vector' in 'main'
+F:\Labs C++\SLab11_task3\SLab11_task3.cpp(7,15): message : see reference to class template instantiation 'Vector<Money>' being compiled
+F:\Labs C++\SLab11_task3\vector.h(79,23): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+F:\Labs C++\SLab11_task3\vector.h(72,1): message : while compiling class template member function 'void Vector<Money>::add_mean_all(void)'
+F:\Labs C++\SLab11_task3\SLab11_task3.cpp(15,18): message : see the first reference to 'Vector<Money>::add_mean_all' in 'main'
+  SLab11_task3.vcxproj -> F:\Labs C++\SLab11\x64\Debug\SLab11_task3.exe
