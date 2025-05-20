@@ -1,0 +1,4 @@
+﻿  Lab7.2.cpp
+F:\Labs C++\Lab7.2\Lab7.2.cpp(38,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+F:\Labs C++\Lab7.2\Lab7.2.cpp(40,16): warning C4101: minNum: неиспользованная локальная переменная
+  Lab7.2.vcxproj -> F:\Labs C++\Lab7.2\x64\Debug\Lab7.2.exe
