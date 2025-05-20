@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+  graph.cpp
+F:\Labs C++\GraphLabWinForm\graph.cpp(184,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  graph.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  GraphLabWinForm.vcxproj -> F:\Labs C++\GraphLabWinForm\x64\Debug\GraphLabWinForm.exe

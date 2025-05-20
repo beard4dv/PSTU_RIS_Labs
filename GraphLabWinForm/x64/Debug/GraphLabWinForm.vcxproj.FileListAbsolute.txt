@@ -1,0 +1,4 @@
+F:\Labs C++\GraphLabWinForm\x64\Debug\GraphLabWinForm.vcxproj.AssemblyReference.cache
+F:\Labs C++\GraphLabWinForm\x64\Debug\GraphLabWinForm.exe
+F:\Labs C++\GraphLabWinForm\x64\Debug\GraphLabWinForm.MyForm.resources
+F:\Labs C++\GraphLabWinForm\x64\Debug\GraphLabWinForm.vcxproj.GenerateResource.cache
