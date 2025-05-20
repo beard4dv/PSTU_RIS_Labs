@@ -1,0 +1,5 @@
+﻿  money.cpp
+  SLab3_main.cpp
+F:\Labs C++\SLab3\SLab3_main.cpp(13,10): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  SLab3.vcxproj -> F:\Labs C++\SLab3\x64\Debug\SLab3.exe
