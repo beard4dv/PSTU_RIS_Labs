@@ -1,0 +1,9 @@
+﻿  SLab12_task3.cpp
+F:\Labs C++\SLab12_task3\Container.h(40,14): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\Labs C++\SLab12_task3\Container.h(32,1): message : while compiling class template member function 'Container<Money>::Container(int)'
+F:\Labs C++\SLab12_task3\SLab12_task3.cpp(8,20): message : see the first reference to 'Container<Money>::Container' in 'main'
+F:\Labs C++\SLab12_task3\SLab12_task3.cpp(8,19): message : see reference to class template instantiation 'Container<Money>' being compiled
+F:\Labs C++\SLab12_task3\Container.h(66,23): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+F:\Labs C++\SLab12_task3\Container.h(60,1): message : while compiling class template member function 'void Container<Money>::add_mean_all(void)'
+F:\Labs C++\SLab12_task3\SLab12_task3.cpp(13,16): message : see the first reference to 'Container<Money>::add_mean_all' in 'main'
+  SLab12_task3.vcxproj -> F:\Labs C++\SLab12\x64\Debug\SLab12_task3.exe

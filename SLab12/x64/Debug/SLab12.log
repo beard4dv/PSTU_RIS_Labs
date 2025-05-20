@@ -1,0 +1,3 @@
+﻿  SLab12_task1.cpp
+F:\Labs C++\SLab12\SLab12_task1.cpp(43,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  SLab12.vcxproj -> F:\Labs C++\SLab12\x64\Debug\SLab12.exe
